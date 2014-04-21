@@ -1,0 +1,28 @@
+---
+layout: post
+title: "hello world"
+date: 2014-04-21 23:58:15 +0800
+comments: true
+categories: 
+---
+
+
+## This is my first blog in GitHub
+
+
+```objective-c
+#import <Foundation/Foundation.h>
+
+int main(int argc, const char * argv[])
+{
+
+    @autoreleasepool {
+        
+        NSLog(@"Hello, World!");
+        
+    }
+    return 0;
+}
+```
+
+Enjoy coding :]
